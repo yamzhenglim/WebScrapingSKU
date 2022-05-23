@@ -7,7 +7,7 @@ Question_1_dataset_Automation_Specialist (SKU Excel List)
 
 Before running the script:-
 1. Download the dataset
-2. You need to change the "INPUT" before running the script
+2. You need to change the "INPUT" variable before running the script
 
 Output:-
 1. output.csv (You can see which SKU_ID have error)
