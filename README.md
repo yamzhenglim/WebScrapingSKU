@@ -1,5 +1,4 @@
 # WebScrapingSKU
-Zalora Q2, web scraping using SKU
 
 2 File contain:-
 ZALORAQ2 (Script for web scraping)
