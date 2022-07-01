@@ -1,8 +1,8 @@
 # WebScrapingSKU
 
 2 File contain:-
-ZALORAQ2 (Script for web scraping)
-Question_1_dataset_Automation_Specialist (SKU Excel List)
+(Script for web scraping)
+(SKU Excel List)
 
 Before running the script:-
 1. Download the dataset
